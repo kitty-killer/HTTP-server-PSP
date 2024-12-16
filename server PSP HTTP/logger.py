@@ -1,7 +1,7 @@
 import os
 import datetime
 
-# Создаем директорию для логов, если она не существует
+# Создает директорию для логов, если она не существует
 LOG_DIR = "logs"
 if not os.path.exists(LOG_DIR):
     os.makedirs(LOG_DIR)

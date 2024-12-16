@@ -1,0 +1,7 @@
+2024-12-17 00:48:49 - Сервер запускается на порту 8080 с использованием директории ./www
+2024-12-17 00:49:09 - Received GET request for /
+2024-12-17 00:49:09 - File not found: ./www\
+2024-12-17 00:49:18 - Received GET request for /index.html
+2024-12-17 00:49:18 - Served file ./www\index.html
+2024-12-17 00:49:37 - Received GET request for /index.html%D0%BA
+2024-12-17 00:49:37 - File not found: ./www\index.html%D0%BA
