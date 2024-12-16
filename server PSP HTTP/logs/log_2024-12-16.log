@@ -1,0 +1,12 @@
+2024-12-16 22:10:41 - Received GET request for /cat.jpg
+2024-12-16 22:10:41 - Served file ./www\cat.jpg
+2024-12-16 22:11:01 - Received GET request for /cat5.jpg
+2024-12-16 22:11:01 - File not found: ./www\cat5.jpg
+2024-12-16 22:13:16 - Received GET request for /index.html
+2024-12-16 22:13:16 - Served file ./www\index.html
+2024-12-16 22:13:59 - Received POST request for /index1.html
+2024-12-16 22:13:59 - Created file ./www\index1.html
+2024-12-16 22:14:21 - Received GET request for /%D0%BE%D1%80%D1%8B%D0%BE
+2024-12-16 22:14:21 - File not found: ./www\%D0%BE%D1%80%D1%8B%D0%BE
+2024-12-16 22:26:41 - Received DELETE request for /index1.html
+2024-12-16 22:26:41 - Deleted file ./www\index1.html
